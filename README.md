@@ -37,4 +37,4 @@ Note: Sometimes false positives can occur.
 Your [contributions](pulls) to the project are always welcome! If you find any bugs or have suggestions, feel free to open an [issue](issues). 💬
 
 ## 💻 System Requirements
-Please read the [System Requirements](/blob/main/system_requirements.md) to see what the recommended number of threads you should run on your system.
+Please read the [System Requirements](/system_requirements.md) to see what the recommended number of threads you should run on your system.
