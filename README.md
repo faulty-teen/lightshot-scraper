@@ -34,7 +34,7 @@ When an image is found on prnt.sc, it is converted to base64 and compared agains
 Note: Sometimes false positives can occur.
 
 ## 💡 Contribute
-Your [contributions](pulls) to the project are always welcome! If you find any bugs or have suggestions, feel free to open an [issue](issues). 💬
+Your [contributions](https://github.com/faulty-teen/liteshot-scraper/pulls) to the project are always welcome! If you find any bugs or have suggestions, feel free to open an [issue](https://github.com/faulty-teen/liteshot-scraper/issues). 💬
 
 ## 💻 System Requirements
 Please read the [System Requirements](/system_requirements.md) to see what the recommended number of threads you should run on your system.
