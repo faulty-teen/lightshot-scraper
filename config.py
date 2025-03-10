@@ -1,0 +1,3 @@
+WEBHOOK_URL = 'https://discord.com/api/webhooks/1335650959296036964/C0_Y5U0KXyjZ4-C911r_-6lFlo5hbt3DzIAlMIjk5nAeXaXsy7eq4I2Dtw5sLl7LmxXY'
+SAVE_IMAGES = True
+THREADS = 2000
