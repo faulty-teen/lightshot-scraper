@@ -31,7 +31,7 @@ headers = {
 def grab_proxies():
     global proxies
     proxies = requests.get('https://api.proxyscrape.com/?request=getproxies&proxytype=http&timeout=5000&country=all&ssl=all&anonymity=all').text.splitlines()
-    print("proxies reloaded")
+    print(f"[{colored('proxies reloaded', 'green', attrs=['bold'])}]")
 
 def process_image(content):
     """
