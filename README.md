@@ -22,7 +22,7 @@ Once an image is verified, it sends the result to a Discord webhook on your serv
 1. Copy your webhook URL from Discord.
 2. Paste it in the config file:
     ```python
-    WEBHOOK_URL = 'URL HERE'
+    WEBHOOK_URL = 'WEBHOOK URL'
     SAVE_IMAGES = True
     THREADS = 2000
     ```
