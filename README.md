@@ -2,7 +2,7 @@
 
 ![Liteshot Scraper Banner](imgs/Banner.png)
 
-
+# ❔ Info
 This is a [prnt.sc](https://prnt.sc/) scraper that generates random URLs, checks if the image is not a [Crypto Scam](#️-crypto-scam), and if it's safe, sends it to a Discord webhook. Threading is used to increase the speed of image verification. 🚀
 
 ## 🔧 How to Use
