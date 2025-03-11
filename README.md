@@ -29,7 +29,8 @@ Once an image is verified, it sends the result to a Discord webhook on your serv
 3. Change settings. Check [System Requirements](#-system-requirements) for thread amount and save setting.
 
 ## ⚠️ Crypto Scam
-**prnt.sc** is known for hosting images with fake crypto wallet credentials designed to scam users. These images appear across the site and follow a similar pattern.
+> [!CAUTION]
+> **prnt.sc** is known for hosting images with fake crypto wallet credentials designed to scam users. These images appear across the site and follow a similar pattern.
 
 ## 🧐 How to Identify a Scam Image?
 When an image is found on prnt.sc, it is converted to base64 and compared against known scam images stored in data.json. If a match is found, the image is flagged as a scam and will not be sent.
@@ -42,8 +43,7 @@ Your [contributions](https://github.com/faulty-teen/liteshot-scraper/pulls) to t
 ## 💻 System Requirements
 Please read the [System Requirements](/system_requirements.md) to see what the recommended number of threads you should run on your system.
 
-
-> [!IMPORTANT]
 > ## 🛑 Worries about being blocked from prnt.sc?
+> [!IMPORTANT]
 > No need to worry. This tool uses free proxies that refresh often to ensure that you won't get booted off.
 
