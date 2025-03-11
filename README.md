@@ -43,4 +43,6 @@ Your [contributions](https://github.com/faulty-teen/liteshot-scraper/pulls) to t
 Please read the [System Requirements](/system_requirements.md) to see what the recommended number of threads you should run on your system.
 
 ## 🛑 Worries about being blocked from prnt.sc?
-No need to worry. This tool uses free proxies that refresh often to ensure that you won't get booted off.
+> [!IMPORTANT]
+> No need to worry. This tool uses free proxies that refresh often to ensure that you won't get booted off.
+
