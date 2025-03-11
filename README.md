@@ -19,7 +19,7 @@ This is a [prnt.sc](https://prnt.sc/) scraper that generates random URLs, checks
 ## 🕹️ Connect to Discord
 Once an image is verified, it sends the result to a Discord webhook on your server. If you're not sure how to set it up, you can check this guide here.
 
-1. Copy your webhook URL from Discord.
+1. Copy your webhook URL from Discord. [How to make a discord webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 2. Paste it in the config file:
     ```python
     WEBHOOK_URL = 'WEBHOOK URL'
