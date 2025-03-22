@@ -3,7 +3,7 @@
 ![Liteshot Scraper Banner](imgs/Banner.png)
 
 # ❔ Info ❔
-This is a [prnt.sc](https://prnt.sc/) scraper that generates random URLs, checks if the image is not a [Crypto Scam](#️-crypto-scam), and if it's safe, sends it to a Discord webhook. Threading is used to increase the speed of image verification. 🚀
+This is a [prnt.sc](https://prnt.sc/) scraper that generates random URLs, checks if the image is not a [Crypto Scam](https://github.com/faulty-teen/lightshot-scraper/blob/main/README.md#%EF%B8%8F-crypto-scam-%EF%B8%8F), and if it's safe, sends it to a Discord webhook. Threading is used to increase the speed of image verification. 🚀
 
 ## 🔧 How to Use 🔧
 
@@ -11,7 +11,7 @@ This is a [prnt.sc](https://prnt.sc/) scraper that generates random URLs, checks
 2. Install the required dependencies:  
    ```bash
    pip install -r requirements.txt
-3. [Connect to your Discord webhook](#️-connect-to-discord)
+3. [Connect to your Discord webhook](https://github.com/faulty-teen/lightshot-scraper/blob/main/README.md#%EF%B8%8F-connect-to-discord-%EF%B8%8F)
 4. Run the scraper with:
     ```bash
     python3 main.py
@@ -26,7 +26,7 @@ Once an image is verified, it sends the result to a Discord webhook on your serv
     SAVE_IMAGES = True
     THREADS = 2000
     ```
-3. Change settings. Check [System Requirements](#-system-requirements) for thread amount and save setting.
+3. Change settings. Check [System Requirements](https://github.com/faulty-teen/lightshot-scraper/blob/main/README.md#-system-requirements-) for thread amount and save setting.
 
 ## ⚠️ Crypto Scam ⚠️
 > [!CAUTION]
